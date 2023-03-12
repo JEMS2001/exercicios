@@ -1,23 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/cppFiles/main.cc to edit this template
- */
 
-/* 
- * File:   main.cpp
- * Author: Arquivos
- *
- * Created on 4 de Março de 2023, 21:18
- */
 
 #include <cstdlib>
 #include <iostream>
 
 using namespace std;
 
-/*
- * 
- */
+
 int main(int argc, char** argv) {
 
     int n1 = 0, n2 = 1, n3 = 0, n4;
